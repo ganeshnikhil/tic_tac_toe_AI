@@ -1,5 +1,5 @@
 import random
-from win_comb_gen import win_comb 
+from win_comb_gen import win_combo
 # create a 1-d 3*3 board
 board = [' '] * 9
 # beauitfy and print board
