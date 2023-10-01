@@ -1,5 +1,5 @@
 import random
-from win_comb_gen import win_combo
+from win_comb_gen import win_combo # it can genrate all wining combination of n*n tic tac toe board. when needed use it
 # create a 1-d 3*3 board
 board = [' '] * 9
 # beauitfy and print board
